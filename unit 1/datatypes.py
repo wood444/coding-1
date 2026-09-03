@@ -33,3 +33,6 @@
 False 
 
 True
+# Variable Naming Rules
+# A variable MUST start with letter and cannot start with a number
+# 2 A variable
