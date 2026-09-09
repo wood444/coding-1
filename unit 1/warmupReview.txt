@@ -1,0 +1,13 @@
+1. # BOOLEANS - True or False
+
+1. # INTERGERS - Numbers with no decimal
+
+1. # Floats - Numbers with decimal points
+
+1. # Strings - Anything inside/inbetween qoutes
+
+2. Code Repository - A code organizer for folders, files, and code
+
+3. A computer keyboard is an output because you have yet to send a message
+
+4. A code that must start with a letter not Numbers
