@@ -6,8 +6,10 @@
 
 1. # Strings - Anything inside/inbetween qoutes
 
-2. Code Repository - A code organizer for folders, files, and code
+2. Code Repository - A code organizer for folders, files, and code.
 
-3. A computer keyboard is an output because you have yet to send a message
+3. A computer keyboard is an input device
 
-4. A code that must start with a letter not Numbers
+4. A code that must start with a letter not Numbers.
+
+5. A variable must start with a letter not a number.
