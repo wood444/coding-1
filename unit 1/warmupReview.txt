@@ -13,3 +13,6 @@
 4. A code that must start with a letter not Numbers.
 
 5. A variable must start with a letter not a number.
+
+
+print("3"+"4")

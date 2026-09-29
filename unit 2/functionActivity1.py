@@ -7,3 +7,4 @@ print( int(val) + 360 )
 val = input
 
 
+print("3"+"4")
