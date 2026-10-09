@@ -11,9 +11,10 @@
 
 
 def compareVal():
-    numA= input()
-    numB= input()
-    print(numA <= numB)
+    print("Comparing numbers: PROGRAM RUNNING")
+    valA = int(input())
+    valb = int(input())
+    print(numA < numB)
 
 compareVal()
 
