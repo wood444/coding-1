@@ -45,3 +45,21 @@ def calculate_divide():
             calculate_multiply()
         else: 
             print("Sorry something went wrong.")
+
+
+    def movie_ticket_ammount():
+        print("Welcome to the movie threater. How old are you?")
+        age = input()
+
+        if age < 7:
+            print("Your ticket is $8.00")
+        elif age > 8 and age < 20
+            print("your ticket is $12.00")
+        elif age > 21 and age < 60:
+            print("your ticket is $20.00")
+        elif age > 61:
+            print("your ticket is $20.00")
+        else:
+            print("Sorry invalid input")
+
+        movieTicketprice()
