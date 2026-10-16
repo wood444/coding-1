@@ -63,3 +63,6 @@ def calculate_divide():
             print("Sorry invalid input")
 
         movieTicketprice()
+
+    # Mechanics - Foundational rules
+        
