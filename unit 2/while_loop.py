@@ -30,3 +30,30 @@ def guessingGame():
         userGuess = int(input("Please guess a number between 1 and 50."))
     
     guessingGame()
+
+
+
+
+
+
+
+
+
+
+# Question 1
+def guessingPassword():
+    correctPw = 112110
+    print("Please log in with your password...")
+    attempts = 4
+    userPwAttempt = input()
+
+    while userPwAttempt != correctPw:
+        print("password incorrect.")
+        print("try again")
+        print("Please log in with your password...")
+        attempts -= 1
+        print("you have this many attempts left: "+str(attempts))
+        userPwAttempt = input()
+    print("welcome you have access...")
+
+guessingPassword()
