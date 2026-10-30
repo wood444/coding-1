@@ -51,3 +51,42 @@ fruits = ["apples", "bananas", "cherry"]
 for i in fruits:
         print(i)
         break
+
+
+# lists - containers that allows us to store multiple pieces of data
+# (data types, variables, other lists, etc)
+
+# lists keep our data structured and organized
+
+drinks = []
+sandwiches = []
+soups = []
+wawa_kisosk = drinks, sandwiches, soups
+
+# when select an item, we use the indexing system of a list
+inventory = [ "weapon", "healing kit", "armor", "grenade" ]
+
+# lists are 0 based indexing systems, MEANING- the first item
+# in a list starts with 0.
+print(inventory[0])
+
+# lists are also changable and manipulatable (mutable)
+
+# when we want to add items we use the append() method
+
+inventory.append("knife")
+print(inventory)
+
+# remove an item fro a list, specifically remove the
+# healing kit from the list
+
+inventory.pop(1)
+
+inventory.remove("healing kit")
+
+
+# add a new healing kit to the list, specifically at index 3
+
+# add a new healing kit to the list, specifically at index 3
+inventory.insert(3,"healing kit")
+print(inventory)
