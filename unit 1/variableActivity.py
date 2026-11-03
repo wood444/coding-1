@@ -18,4 +18,4 @@ oldtyme 1.75
 
 # camel case - when creating variable names with multiple words,
 # every new word begins with a capital letter
-# the reason why its callede camel case is bc every word
+# the reason why its called camel case is bc every word
