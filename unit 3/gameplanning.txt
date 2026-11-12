@@ -1,0 +1,4 @@
+I want to make a mario like game. In m y game you should be able to jump from platform to platform,
+and get level ups when you reach a certain object. This game will also be a fighting game like brawlhalla.
+
+Up arrow makes you jump
